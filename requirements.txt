@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+# PDF processing — pymupdf replaces pypdf; handles text+images far better
+pymupdf
+# OCR for scanned / image-only pages
+# Requires system Tesseract: macOS: brew install tesseract | Linux: sudo apt install tesseract-ocr
+pytesseract
+Pillow
+# API
+groq
+python-dotenv

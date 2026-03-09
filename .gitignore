@@ -1,0 +1,22 @@
+# Python cache — auto-generated, never needed on GitHub
+__pycache__/
+*.pyc
+*.pyo
+
+# Your API keys — NEVER push this
+.env
+
+# Logs — auto-generated
+logs/
+
+# Chroma vectorstore — rebuilt automatically on launch
+vectorstores/
+
+# Sessions — temporary runtime data
+sessions/
+
+# macOS junk
+.DS_Store
+
+# The broken folder from earlier
+{core,components,utils}/
